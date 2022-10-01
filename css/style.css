@@ -83,7 +83,7 @@ a {
     line-height: 2;
     text-shadow: 1px 1px 20px #000;
     font-weight: bold;
-    background: url('/img/bak.jpg') no-repeat center center/cover;
+    background: url("../img/bak.jpg") no-repeat center center/cover;
 
     /* Overlay */
     background-color: rgba(0,0,0,0.5);
