@@ -120,10 +120,19 @@ a {
 
 .client {
     display: inline-block;
-    width: 25%;
-}
+    width: 50vh;
+    height: 50vh;
+    border: 4px solid black;
+    margin: 20px 67PX 0PX -60PX;
+    border-radius: 20PX;
+    box-shadow: 1PX 1PX 10px black;
 
-/* About */
+    }
+
+#imgg1{
+
+
+}
 #features {
     width: 100%;
     background: #222;

@@ -29,9 +29,52 @@
 }
 
 .client {
-    width: 150%;
+    width: 130%;
     margin: 10px 5px 10px 6px;
     
+}
+
+#imgg1{
+
+    
+    margin-right: 70px;
+    border: 2px solid;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 20PX;
+    
+
+}
+
+#imgg2{
+        
+    margin-left: 70px;
+    border: 2px solid;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 20PX;
+
+}
+
+#imgg3{
+
+    
+    margin-right: 70px;
+    height: 50vw;
+    border: 2px solid;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 20PX;
+
+}
+
+#imgg4{
+
+    margin-left: 70px;
+    height: 50vw;
+    border: 2px solid;
+    box-shadow: 1px 1px 10px black;
+    border-radius: 20PX;
+
+
+
 }
 
 /* Features */
