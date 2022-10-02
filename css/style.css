@@ -20,6 +20,7 @@ a {
     padding: 15px 60px;
     font-size: 1.1rem;
     text-transform: uppercase;
+    margin-top: 39vh;
     background: #111;
     color: #eee;
     border-radius: 5px;
@@ -79,15 +80,15 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     line-height: 2;
-    text-shadow: 1px 1px 20px #000;
+    text-shadow: 1px 1px 20px rgb(0, 0, 0);
     font-weight: bold;
-    background: url("../img/bak.jpg") no-repeat center center/cover;
+    background: url("../img/logoo.jpg") no-repeat center center/cover;
 
-    /* Overlay */
+    /* Overlay 
     background-color: rgba(0,0,0,0.5);
-    background-blend-mode: color;
+    background-blend-mode: color;*/
 }
 
 #showcase-container {
@@ -129,10 +130,7 @@ a {
 
     }
 
-#imgg1{
 
-
-}
 #features {
     width: 100%;
     background: #222;
