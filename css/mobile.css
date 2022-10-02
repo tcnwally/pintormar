@@ -26,10 +26,10 @@
 #showcase{
 
     background: url(../img/logumb.jpg);
-    background-position: -110px;
+    background-position: -120px;
     background-size: cover;
     left: 100vh;
-    width: 80vh;
+    width: 90vh;
     height: 100vh;
     
 }
